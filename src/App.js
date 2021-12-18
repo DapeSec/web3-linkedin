@@ -7,7 +7,7 @@ import twitterLogo from './assets/twitter-logo.svg';
   // Constants
   const TWITTER_HANDLE = 'Dape25';
   const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-  const contractAddress = "0x964CF3EEe40A2836C06F069Edd834eb9b5C808Ba";
+  const contractAddress = "0xd606c77b9a9009940f4063878F7714771Fc01c49";
   const contractABI = abi.abi;
 
   const App = () => {
